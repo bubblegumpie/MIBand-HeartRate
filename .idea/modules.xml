@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MiBand.iml" filepath="$PROJECT_DIR$/MiBand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiBand/MiBand.iml" filepath="$PROJECT_DIR$/MiBand/MiBand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MiBandHeart/MiBandHeart.iml" filepath="$PROJECT_DIR$/MiBandHeart/MiBandHeart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mibandnevaro/mibandnevaro.iml" filepath="$PROJECT_DIR$/mibandnevaro/mibandnevaro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nevaromiband/nevaromiband.iml" filepath="$PROJECT_DIR$/nevaromiband/nevaromiband.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
